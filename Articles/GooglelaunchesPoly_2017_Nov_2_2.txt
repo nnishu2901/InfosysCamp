@@ -1,0 +1,10 @@
+Create in AR, VR With Google Poly Object Library
+
+The library offers 'thousands' of free objects – everything from a rocket ship to a sandcastle, piano, and pirate.
+
+Need a 3D hamburger, cactus, or pepperoni pizza to use in your virtual or augmented reality app? Google's new Poly platform lets you find, view, and download free AR and VR objects and scenes.
+
+"With the growth of virtual and augmented reality, the world needs more and more 3D objects," Google explained in a video introducing Poly. "But right now, these objects are hard to find. That's why we built Poly."
+
+
+Search through "thousands" of free objects – everything from a rocket ship to a sandcastle, piano, and pirate. If you find what you're looking for, you can view it in 3D and download it to use in your app. The library is fully integrated with Google's Tilt Brush and Blocks apps, letting you modify many of the objects to better fit your project.

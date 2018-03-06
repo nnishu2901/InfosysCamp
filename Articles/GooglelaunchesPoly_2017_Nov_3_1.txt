@@ -1,0 +1,24 @@
+
+Google releases library of 3D clip-art for use in virtual and augmented reality
+
+
+Google has launched a digital library of user-created 3D objects that can be used to populate virtual- and augmented-reality worlds.
+
+Called Poly, the open-source database functions like a clip-art library, allowing anyone to find and download 3D shapes – from simple trees and animals, to complex buildings and environments.
+
+
+Google releases library of 3D clip-art for use in virtual and augmented reality
+
+Currently everything on the platform is free and licensed under Creative Commons, meaning the objects can be freely used to populate VR and AR games, and can also be used in architecture and design.
+  
+As the platform is open-source, users are invited to upload their own 3D objects to the library. But to kickstart the project, Google commissioned various artists to stock the virtual shelves, with objects ranging from pizza to poodles, dolphins to demons, and much more besides.
+
+These artists made their objects using Google's integrated VR painting and sculpting apps, Tilt Brush and Blocks.
+
+These models favour a low-polygon style, which is understood to have been a stylistic choice from Google. However, the simple rendering also means the objects should load quickly on Google's Daydream VR platform.
+
+The database is expected to become a useful tool for VR and AR hobbyists and developers who are just starting out, as most professional game designers are more likely to use objects they have created themselves.
+
+In terms of architecture, the library already includes 3D renderings of skyscrapers, cabins, lighthouses and even the Colosseum.
+
+A search for the word "chair" brings up moveable models of kitchen chairs, desk chairs and deck chairs, as well an item called That Expensive Chair, which looks remarkably like a pixel version of the Eames Lounge Chair.

@@ -1,0 +1,13 @@
+Google’s ‘Poly’ is a cross-platform 3D library for VR/AR — and it’s free
+
+Google’s ‘Poly’ is a cross-platform 3D library for VR/AR — and it’s free ...
+
+Google today opened a new platform for people to find and share 3D objects. Poly integrates with Tilt Brush and Blocks, respectively, and acts as a showcase for 3D models that developers can plug and play into their own AR or VR creations.
+
+Built for development kits like Google’s own ARCore, or Apple’s ARKit, Poly allows anyone to upload or view 3D objects in a mobile or desktop browser.
+
+Searching for specific things (like cheeseburger, for example) brings up models you can then view, download, or pull directly into a VR environment for editing. Creators can then remix the project and re-upload it to Poly, where Google automatically adds credit to the original.
+
+Unlike other asset stores, Google intends to keep Poly free. It’s unknown if it’ll remain this way indefinitely, but you’d have to imagine serious 3D modelers are going to want to be paid at some point. Or, perhaps it’s Google’s desire to keep Poly a hobbyist community, similar to Microsoft’s Remix 3D.
+
+For now though, Poly offers an excellent resource for any developer looking to jump feet first into the VR/AR space

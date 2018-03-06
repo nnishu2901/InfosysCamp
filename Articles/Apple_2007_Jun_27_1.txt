@@ -1,0 +1,106 @@
+
+
+The iPhone Matches Most of Its Hype
+
+
+By DAVID POGUEJUNE 27, 2007 
+
+
+
+  
+The iPhone, set to be released on June 29, is three devices in one: a cellphone, a wide-screen iPod, and an Internet communications device.  Credit Christopher Capozziello for The New York Times  
+  
+Talk about hype. In the last six months, Apple’s iPhone has been the subject of 11,000 print articles, and it turns up about 69 million hits on Google. Cultists are camping out in front of Apple stores; bloggers call it the “Jesus phone.” All of this before a single consumer has even touched the thing.
+
+So how is it?
+
+As it turns out, much of the hype and some of the criticisms are justified. The iPhone is revolutionary; it’s flawed. It’s substance; it’s style. It does things no phone has ever done before; it lacks features found even on the most basic phones.
+
+Unless you’ve been in a sensory-deprivation tank for six months, you already know what the iPhone is: a tiny, gorgeous hand-held computer whose screen is a slab of touch-sensitive glass.
+
+The $500 and $600 models have 4 and 8 gigabytes of storage, respectively — room for about 825 or 1,825 songs. (In each case, 700 megabytes is occupied by the phone’s software.) That’s a lot of money; then again, the price includes a cellphone, video iPod, e-mail terminal, Web browser, camera, alarm clock, Palm-type organizer and one heck of a status symbol.
+
+
+
+
+
+The phone is so sleek and thin, it makes Treos and BlackBerrys look obese. The glass gets smudgy — a sleeve wipes it clean — but it doesn’t scratch easily. I’ve walked around with an iPhone in my pocket for two weeks, naked and unprotected (the iPhone, that is, not me), and there’s not a mark on it.
+Continue reading the main story  
+
+
+
+But the bigger achievement is the software. It’s fast, beautiful, menu-free, and dead simple to operate. You can’t get lost, because the solitary physical button below the screen always opens the Home page, arrayed with icons for the iPhone’s 16 functions.
+
+You’ve probably seen Apple’s ads, showing how things on the screen have a physics all their own. Lists scroll with a flick of your finger, CD covers flip over as you flick them, e-mail messages collapse down into a trash can. Sure, it’s eye candy. But it makes the phone fun to use, which is not something you can say about most cellphones.
+
+Apple has chosen AT&T (formerly Cingular) to be the iPhone’s exclusive carrier for the next few years, in part because the company gave Apple carte blanche to revise everything people hate about cellphones.
+
+For example, once the phone goes on sale this Friday, you won’t sign up for service in a phone store, under pressure from the sales staff. You will be able to peruse and choose a plan at your leisure, in the iTunes software on your computer.
+
+Better yet, unlimited Internet service adds only $20 a month to AT&T’s voice-plan prices, about half what BlackBerry and Treo owners pay. For example, $60 gets you 450 talk minutes, 200 text messages and unlimited Internet; $80 doubles that talk time. The iPhone requires one of these voice-and-Internet plans and a two-year commitment.
+
+On the iPhone, you don’t check your voice mail; it checks you. One button press reveals your waiting messages, listed like e-mail. There’s no dialing in, no password — and no sleepy robot intoning, “You...have...twenty...one...messages.”
+
+To answer a call, you can tap Answer on the screen, or pinch the microscopic microphone bulge on the white earbud cord. Either way, music or video playback pauses until you hang up. (When you’re listening to music, that pinch pauses the song. A double-pinch advances to the next song.)
+
+
+
+
+
+Making a call, though, can take as many as six steps: wake the phone, unlock its buttons, summon the Home screen, open the Phone program, view the Recent Calls or speed-dial list, and select a name. Call quality is only average, and depends on the strength of your AT&T signal.
+
+E-mail is fantastic. Incoming messages are fully formatted, complete with graphics; you can even open (but not edit) Word, Excel and PDF documents.
+
+The Web browser, though, is the real dazzler. This isn’t some stripped-down, claustrophobic My First Cellphone Browser; you get full Web layouts, fonts and all, shrunk to fit the screen. You scroll with a fingertip — much faster than scroll bars. You can double-tap to enlarge a block of text for reading, or rotate the screen 90 degrees, which rotates and magnifies the image to fill the wider view.
+
+Finally, you can enlarge a Web page — or an e-mail message, or a photo — by spreading your thumb and forefinger on the glass. The image grows as though it’s on a sheet of latex.
+
+The iPhone is also an iPod. When in its U.S.B. charging cradle, the iPhone slurps in music, videos and photos from your Mac or Windows PC. Photos, movies and even YouTube videos look spectacular on the bright 3.5-inch very-high-resolution screen.
+
+
+Interested in All Things Tech?
+
+The daily Bits newsletter will keep you updated on the latest from Silicon Valley and the technology industry, plus exclusive analysis from our reporters and editors.
+
+
+The Google Maps module lets you view street maps or aerial photos for any address. It can provide driving directions, too. It’s not real G.P.S. — the iPhone doesn’t actually know where you are — so you tap the screen when you’re ready for the next driving instruction.
+
+But how’s this for a consolation prize? Free live traffic reporting, indicated by color-coded roads on the map.
+
+Apple says one battery charge is enough for 8 hours of calls, 7 hours of video or 24 hours of audio. My results weren’t quite as impressive: I got 5 hours of video and 23 hours of audio, probably because I didn’t turn off the phone, Wi-Fi and other features, as Apple did in its tests. In practice, you’ll probably wind up recharging about every other day.
+
+So yes, the iPhone is amazing. But no, it’s not perfect.
+
+There’s no memory-card slot, no chat program, no voice dialing. You can’t install new programs from anyone but Apple; other companies can create only iPhone-tailored mini-programs on the Web. The browser can’t handle Java or Flash, which deprives you of millions of Web videos.
+
+
+
+
+
+The two-megapixel camera takes great photos, provided the subject is motionless and well lighted . But it can’t capture video. And you can’t send picture messages (called MMS) to other cellphones.
+
+Apple says that the battery starts to lose capacity after 300 or 400 charges. Eventually, you’ll have to send the phone to Apple for battery replacement, much as you do now with an iPod, for a fee.
+
+Then there’s the small matter of typing. Tapping the skinny little virtual keys on the screen is frustrating, especially at first.
+
+Two things make the job tolerable. First, some very smart software offers to complete words for you, and, when you tap the wrong letter, figures out what word you intended. In both cases, tapping the Space bar accepts its suggestion.
+
+Second, the instructional leaflet encourages you to “trust” the keyboard (or, as a product manager jokingly put it, to “use the Force”). It sounds like new-age baloney, but it works; once you stop stressing about each individual letter and just plow ahead, speed and accuracy pick up considerably.
+
+Even so, text entry is not the iPhone’s strong suit. The BlackBerry won’t be going away anytime soon.
+
+The bigger problem is the AT&T network. In a Consumer Reports study, AT&T’s signal ranked either last or second to last in 19 out of 20 major cities. My tests in five states bear this out. If Verizon’s slogan is, “Can you hear me now?” AT&T’s should be, “I’m losing you.”
+
+Then there’s the Internet problem. When you’re in a Wi-Fi hot spot, going online is fast and satisfying.
+
+
+
+
+
+But otherwise, you have to use AT&T’s ancient EDGE cellular network, which is excruciatingly slow. The New York Times’s home page takes 55 seconds to appear; Amazon.com, 100 seconds; Yahoo. two minutes. You almost ache for a dial-up modem.
+
+These drawbacks may be deal-killers for some people. On the other hand, both the iPhone and its network will improve. Apple points out that unlike other cellphones, this one can and will be enhanced with free software updates. That’s good, because I encountered a couple of tiny bugs and one freeze. (There’s also a tantalizing empty space for a row of new icons on the Home screen.) A future iPhone model will be able to exploit AT&T’s newer, much faster data network, which is now available in 160 cities.
+
+But even in version 1.0, the iPhone is still the most sophisticated, outlook-changing piece of electronics to come along in years. It does so many things so well, and so pleasurably, that you tend to forgive its foibles.
+
+In other words, maybe all the iPhone hype isn’t hype at all. As the ball player Dizzy Dean once said, “It ain’t bragging if you done it.”

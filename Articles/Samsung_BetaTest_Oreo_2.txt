@@ -1,0 +1,27 @@
+
+
+
+[Update: It's official] Samsung starts rolling out Oreo beta for the Galaxy S8 and S8 Plus
+
+
+Android 8.0 Oreo has been out there for a few months, but Samsung is still shipping phones with Nougat. What else is new, right? Well, the Android 8.0 beta for the Galaxy S8 is pretty new. It's just getting underway today, in fact. You might be able to join if you're on certain versions of the device, but this looks like a slow rollout.
+
+
+
+The Android 8.0 beta is running "Samsung Experience 9.0," but that doesn't appear to make any substantial changes to the way the phone works. It has a number of new features courtesy of the updated Android core, though. There are launcher shortcuts, colored media notifications, and more. It's also much smoother, according to a Reddit poster.
+
+
+
+Based on FAQs Samsung has posted online, the beta will only run on T-Mobile, Sprint, and unlocked version of the Galaxy S8 and S8 Plus. To sign up, you'll need to log into the Samsung+ app and look for the beta registration option at the top. That does not appear on the T-Mobile unit I have, but we're still in the early days. We've heard the beta might open up to more users tomorrow.
+
+
+
+
+
+   
+
+   
+
+The OTA from stable Nougat to Oreo is about 1.4GB. If you decide to join, it's a good idea to back up your data. Beta software can be very beta sometimes.
+
+

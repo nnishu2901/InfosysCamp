@@ -1,0 +1,13 @@
+
+
+Are you champing at the bit waiting for a taste of what the next Galaxy phone will be like? You don't have to wait until 2018. Samsung is launching a public beta for Experience 9.0, its customized take on Android Oreo that will show up on the next Galaxy flagship. As of November 2nd, "select" Galaxy S8 and S8 Plus owners (more on that later) in South Korea, the UK and the US will get to peek at the next-gen interface in return for feedback on performance and usability.
+ 
+ 
+
+
+
+
+Samsung hasn't said what 9.0 entails as of this writing, but early release notes suggest that Oreo's architectural improvements are the focus. That means interface tweaks like notification badges, contextual actions when you long-press an app icon, higher sound quality and performance improvements. There are some Samsung-specific additions: you should see a GIF keyboard, more flexible Samsung Cloud file storage (including support for backing up your Secure Folder) and a game mode in DeX. You can even install second copies of messaging apps so that you can easily juggle multiple accounts, although this won't work for services that insist on a phone number for verification.
+
+When Samsung says the beta is coming to "select" devices, it's not kidding. On top of the prerequisite Samsung Account (you can enroll through the Samsung+ app), Americans will need an S8 or S8 Plus running on Sprint or T-Mobile, whether or not it's carrier-locked. And in the UK, it'll have to be an unlocked or open market model. The company is promising "additional rounds" of beta registrations, mind you, so it's possible that you'll still get in if you aren't part of the initial group. The biggest question is when Samsung will release the finished version. It took until January for Android Nougat to reach Galaxy S7 owners, and we wouldn't be surprised if Oreo has a similar wait.
+  

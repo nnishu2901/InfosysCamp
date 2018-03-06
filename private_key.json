@@ -1,0 +1,13 @@
+{
+	  "type": "service_account",
+  "project_id": "rwa-tooling",
+    "private_key_id": "1c4d1a0cc0158f6f37280982c1a12794a74bad89",
+      "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJqDj9c6YhC8N7\nGGUae23yBgcokTO8i4VXeBgAaocWG/5qMe/CTK94fFeEntnjs8WsY0EwgAReG16A\nECnXdWnjLlBie8fNVbsgXlR3h6yM39Ozf8lNYpQ6cKMf0i7b0lLTGf8PQX5JQy9u\nG+FfFhBxnOyi+KzwDAKxc4BkL4/fzUVVNzLAm4lUzhfYN4EQ79F71yyC16Mq07SW\n0/q3rwYcsvkysOOOu1ejzmm/4V7uRvfXUJRK0MOSmJ0+e3f7ClyVdbdeAxguZvF1\nsHOTTxdXJGX3g0ya2Sq0leZAuiUwispmVhLIu0O1jfZHfFztTkELVTitehnjV1Cy\nzKXBDzk/AgMBAAECggEAH5W5I2gvRO1w7JapaJ3yM7O3qvt0hTC8gwg83ifRSRMR\nD19gmb1lcx4qnmDmaNCaAq0NzgO8a2RRsgZAv3iqS+/PnbVHL1qhCL9YRIaGw2Pg\nETUlJE6Z6pNaLBxBbvhrikP/8Urv9Zf6gFOz7NmUXBnY7ee8PTbsXxCOXg1zCqRM\nCDhcJHkiaznn2Xgt6ZPVjZ28DkYwMY1hhQGoXjDhJoCV7neRKyRtTVd3rU1V7Gbe\nuW2kbN08Fi75RIV9xIZoo6V0TgS8PlkevthLZwRx0nKEAQOngwsnm96g9RY5i64l\nt+EWSd6PDB/lxTn5lYF88RZ74LRBz78VIG1YrEOBZQKBgQDs/GIvbnTjqJ7AShTe\nhhm2XWYETD/Z65LjMzga/5dsfnTBv8Hib2M6gXKiybj5dUAKeFMqi7/yoTAzf0N5\n1xrWrqkfmjIcZd+VWoBkq8Pnznf18SrOzZIOARB86L3OCzE0he4ERQ0k/F9blkl3\nrrMg+X1mOVyo831IT49yj/0v7QKBgQDZ1jKKIri4ee+pRc05ZBL+FQ2taBzQdxln\nRBS2kYq/8d8vq7EcA7V1q85R3SF0ErWjTCKBhZjN5fR4cMtKcUKno6J98vN21TOQ\nmLDRpj5OKHxkkHggZO9bzlIvljJrH/Q72TILxalVbYNEqyUVbq3ioAmebNALjbRx\nmmOqq4XwWwKBgFDwNdx7PiLO4UFNS+lgJYH6TjBjll8oLOe6A4x9BMuCOQA/LMnY\nPyypL2zXtnxEhlXNGKJsTmdgk+TSr0n6pGj0CEEJ2dmHFaCd40H+xA70nlX6QyOU\nZDCyPl5a4xBvFCQbJdqBdubN5weRwY/Fs9osO57hMntlhcFfot9+u/tVAoGBAMPy\n8bNgWFlZFkRmDZ06b/suZQc/R+wdtjQ2AYvYj77pi6IOB1rz2x7mVMk+6QDIc6tY\nqRFpY3KTD73neHaWOychAuHY0Thrv96p+yQbLqCPupWbfvNk2Ar1JOi5atECBWhw\nj5wXSaMWx6XVbZ5B2RiqbPydVOePqGkoP88eS3VRAoGAf9rNtgC17NQrSEtTR0jU\n+MDqhgNEAVPa2V1A254NKuENE3U7yCKMDSwQjM/e79xMwJhRbPfuXOduLD8KUYf7\nLDL5BX0biybqyZzc+Fhd8KSh3YqAYRg4GAyvtBf2iVmcEQ3WgT+ut1VnAeu77Jxs\n2Sstdys98hBka0EqHv2BI1k=\n-----END PRIVATE KEY-----\n",
+        "client_email": "hack-895@rwa-tooling.iam.gserviceaccount.com",
+	  "client_id": "104793258118586763238",
+	    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+	      "token_uri": "https://accounts.google.com/o/oauth2/token",
+	        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+		  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hack-895%40rwa-tooling.iam.gserviceaccount.com"
+		  }
+

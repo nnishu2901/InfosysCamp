@@ -1,0 +1,35 @@
+Nokia Q1 2010 results, smartphone growth with cautious outlook
+
+Published by Rafe Blandford at 11:27 UTC, April 22nd 2010
+
+
+Nokia has released their Q1 2010 results, reporting an operating profit of €488 million, with net sales €9.5 billion (up 3% YoY). Nokia's device and service division's profits were €831 million, up 52% year on year. Margins in devices and services were 12.1% (up 1.3% YoY and down 5% QoQ). Converged devices sales (smartphones) were 21.5 million, compared with 13.7 million units in Q1 2001 (up 57% YoY) and 20.1 million units in Q4 2009 (up 3%). As such, worldwide smartphone marketshare was 41%, up 1% sequentially and 3% year on year. Full story and comments below.
+
+ 
+
+
+Nokia's results are below market expectations; analysts were expecting a larger increase in profits and a more optimistic outlook. Nokia has projected lower than forecasted devices and service margins in the year ahead (and its forecasts for Q2 were cautious in general). These factors are the primary contributors to a falling share price this morning.
+
+Nokia has been squeezed in the low end device market (Series 40). However, the results in the key smartphone segment are encouraging, with increased shipments and marketshare (beating the overall market average). There were also encouraging signs for Ovi Maps (10 million downloads), and continued growth from Ovi Store (9,500 content items for key devices, average active user downloads 8 items per month).
+
+Olli-Pekka Kallasuvo, Nokia CEO, said:
+
+
+"In Q1, Nokia delivered both year-on-year net sales and operating profit growth. We continue to face tough competition with respect to the high end of our mobile device portfolio, as well as challenging market conditions on the infrastructure side.
+
+During the quarter, we also demonstrated our ability to deliver the Nokia smartphone experience to consumers on a global scale, with our smartphone shipments up by more than 50% year-on-year. The consumer response to the inclusion of our walk and drive navigation offering on our smartphones has been tremendous. Since launching in January, 10 million Nokia smartphone users around the world have downloaded the offering.
+
+In infrastructure, Nokia Siemens Networks’ profitability benefited from a positive sales mix in Q1. I am also pleased to see encouraging results from the company’s focus on helping operators meet the challenge of the rapid growth in data and signaling traffic from smartphones."
+
+As part of the release Nokia notes that:
+
+
+"Nokia is planning to deliver a family of smartphones based on the Symbian^3 software platform that is targeted to offer a clearly improved user experience, a high standard of quality, and competitive value to consumers. We plan to launch the first smartphone based on Symbian^3 during the second quarter 2010, with shipments expected during the third quarter 2010."
+
+This is being widely reported as a delay in introducing the first Symbian^3 handsets (initially expected to arrive on the market at the end of Q2), with some justification. Nokia did say they would deliver 'a major product milestone before mid-year 2010'. It is worth noting that both Nokia and Symbian have been careful not to be too specific about dates. Symbian's own roadmap says devices are expected in H2 2010.
+
+On the conference call Nokia indicated that the Symbian^3 release was behind its internal plan. OPK noted that they would not ship the first Symbian^3 device 'before the quality meets the demand of the end user' and that it 'will improve our position in the high end' and that are 'very confident' about the Symbian^3 device portfolio.
+
+The reality is there's a small time delay to Nokia's Symbian^3 device; it would appear to be a matter of weeks. However this does have a significant impact on Nokia's financial results (in Q2, Q3) and portfolio mix. The delay will impact the first device most, subsequent devices will be delayed much less (the platform advantage).
+
+Nokia also indicated that it has shifted the planned introduction of Symbian^4 based products to 2011. Nokia continues to expect to deliver its 'product milestone' for its first MeeGo device by the end of the year.

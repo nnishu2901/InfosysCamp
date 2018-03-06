@@ -1,0 +1,10 @@
+Your text:
+HSBC has done very well this year and will continue doing so.
+-------------------------------------------------------------------------------------------
+If your event were to happen today,
+Today's closing stock price change (compared to today morning prices, in %):
+3.168940180881185
+Tomorrow's closing stock price change (when compared to today morning prices,in %):
+24.473918791122564
+Day after tomorrow's closing stock price change (when compared to today's morning prices, in %):
+31.101165294313883

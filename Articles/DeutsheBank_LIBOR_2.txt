@@ -1,0 +1,54 @@
+Germany’s biggest bank has been forced to fire seven senior employees, pay a £1.7bn fine and admit criminal guilt in the most severe punishment for interest,rate benchmark manipulation in history.
+
+Four regulators in the UK and US hit Deutsche Bank with unprecedented fines and other penalties on Thursday, detailing how traders in London, Tokyo, New York and Frankfurt manipulated Libor, London’s benchmark for interbank borrowing, and its European and Japanese equivalents.
+
+The punishment is the biggest to date in the Libor rigging scandal, which has seen several banks pay fines of hundreds of millions of pounds and multiple individuals charged with criminal fraud.
+
+Deutsche Bank’s employees pleaded with individuals at Barclays, Citibank, UBS and others to artificially move the benchmarks, which are used to price trillions of dollars worth of financial products around the world, including mortgages and other loans, between 2005 and 2010.
+
+One manager, imploring a Barclays trader to drive the benchmark down, wrote: “I’m begging u, don’t forget me… pleassssssssssssssseeeeeeeeee… I’m on my knees…”, while a Merrill Lynch banker told another senior employee: “people just randomly make these numbers up”.
+
+The Financial Conduct Authority said that Deutsche Bank employees deliberately misled the UK watchdog, falsely claiming that the German financial authority had blocked the bank from disclosing information, and accidentally destroyed hundreds of tapes of phone calls.
+
+Record fines
+The FCA and three American regulators – the Department of Justice, Commodity Futures Trading Commission and New York’s Department of Financial Services – imposed fines worth a combined $2.52bn (£1.68bn), significantly more than the previous record of $1.5bn handed to UBS in 2012.
+
+The FCA said that Deutsche Bank “repeatedly misleading” the regulator led to an inflated penalty, while the total sum was also driven up due to the involvement of the DFS, led by New York’s aggressive superintendent of financial services Benjamin Lawsky.
+
+The DFS has not taken part in previous Libor settlements, and accounted for $600m of the fine. It is also forcing Deutsche Bank to fire seven unnamed employees who played a role in the misconduct. Six of these – a managing director, four directors and a vice president – are based in London.
+
+
+
+“Deutsche Bank employees engaged in a widespread effort to manipulate benchmark interest rates for financial gain,” Mr Lawsky, who has also forced Deutsche Bank to install an independent monitor, said.
+
+“While a number of the employees involved in misconduct have already left the bank, those that remain are being terminated or banned from the New York banking system.
+
+“We must remember that markets do not just manipulate themselves: It takes deliberate wrongdoing by individuals.”
+
+The DoJ compelled a UK subsidiary of Deutsche Bank to plead guilty to wire fraud, one of only a handful of corporate criminal pleas related to Libor rigging and the first bank to plead guilty in the UK.
+
+Extracts of conversations published by the regulators show how bank derivatives traders pleaded with individuals responsible for setting the benchmarks to make submissions that would benefit them, rather than, as intended, that represent market conditions.
+
+“Can we have a high 6mth libor today pls gezzer [sic]?” one trader asked a submitter. “sure dude, where wld you like it mate?” the submitter replied.
+
+On another occasion, one desk head told employees to “Push for 60…”, followed up by another saying: “or even 58 if u can… Coffee on me.”
+
+One manager, imploring a Barclays trader to lower his submission for Euribor, the euro equivalent of Libor, wrote: “I’m begging u pleassssssssssssssseeeeeeeeee I’m on my knees.”
+
+On a separate occasion, after the trader had convinced others to lower submissions, the manager wrote: “I love you.”
+
+In a discussion about Tibor, the Tokyo yen benchmark, a Merrill Lynch banker told a Deutsche Bank vice president: “Euroyen tibor isn’t really reflective of actual money market condition in japan… people just randomly make those numbers up.”
+
+Deutsche Bank is the eighth financial institution to be fined by the FCA, following Barclays, UBS, Royal Bank of Scotland, ICAP, Rabobank, RP Martin and Lloyds, but Thursday’s fine is by some distance the biggest.
+
+The watchdog said Deutsche Bank had failed to spot the misconduct because it had “inadequate systems and controls” and did not make efforts to fix this even when being told of the risks.
+
+It also made the FCA’s investigation more difficult, mistakenly destroying 482 tapes of phone calls despite being told they needed to be preserved, and falsely claiming that Germany’s BaFin had prevented information from being shared.
+
+At least 29 individuals in four cities acted wrongly, the FCA said. “ One division at Deutsche Bank had a culture of generating profits without proper regard to the integrity of the market,” said Georgina Philippou, acting director of enforcement and market oversight.
+
+“This wasn’t limited to a few individuals but, on certain desks, it appeared deeply ingrained.”
+
+Deutsche Bank said that no member of the management board was found to have been aware of the misconduct, and said it had taken serious steps to resolve the issues.
+
+“We have disciplined or dismissed individuals involved in the trader misconduct; have substantially strengthened our control teams, procedures and record,keeping; and are conducting a thorough review of the Bank’s actions in addressing this matter,” said the bank’s co,chief executives Jürgen Fitschen and Anshu Jain.

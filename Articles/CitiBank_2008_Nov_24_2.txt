@@ -1,0 +1,109 @@
+The Citigroup Bailout
+
+It's bailout time. Let's start with Paul Kedrosky:
+
+
+ Good Bank, Bad Bank, and F,-ed Bank: Apparently Citibank and the U.S. government (i.e., we taxpayers) have reached a deal whereby we will backstop something like $300-billion in screwed assets on Citi's balance sheet. ... Here is the gist:
+
+To be clear, this is not a "bad bank" model. Assets are not, apparently, being taken off the Citi balance sheet and put into another entity walled off from the Citi biological host. Instead, they are being left on the Citi balance sheet, but tagged and bagged for eventual disposal via taxpayers. ...
+
+I'll have more when there is more, and I know the equity futures markets like it , it's admittedly less terrifying that letting Citi fail , but so far I'm not impressed. ...
+
+US Agrees to Bail Out Citi (Updated):  ...Note key element of the deal is that the Federal government will guarantee $300 billion of Citi assets, a much bigger number than had been leaked earlier, with a rather convoluted loss-sharing arrangement, but the bottom line is that Citi is at risk for at most $40 billion. Citi also gets a $20 billion equity injection, on slightly more onerous terms than the initial TARP investments, but still more favorable than Warren Buffett's investment in Goldman. Oh, and it appears there will be NO management changes. 
+
+ I do not see how GM can be denied a rescue now (not that that outcome is really in doubt, merely how much pain will be inflicted on management and the UAW). ...
+
+Update 12:50 AM: Bloomberg's story puts the bad asset program slightly higher, at  $306 billion. ...
+
+Calculated Risk has the  Joint Statement by Treasury, Federal Reserve, and the FDIC on Citigroup, while James Kwak says the bailout is "Weak, Arbitrary, Incomprehensible." I think he has it right:
+
+
+ Citigroup Bailout: Weak, Arbitrary, Incomprehensible: According to the Wall Street Journal, the deal is done. Here are the terms. In short: (a) Citi gets another $27 billion on the same terms as the first $25 billion, except that the interest rate is now 8% instead of 5%, and there is a cap on dividends of $0.01 per share per quarter; and (b) the government (Treasury, FDIC, Fed) agrees to absorb 90% of losses above $29 billion on a $306 billion slice of Citi’s assets, made up of residential and commercial mortgage-backed securities. (If triggered, some of that guarantee will be provided as a loan from the Fed.) There is also a warrant to buy up to $2.7 billion worth of common stock (I presume) at a staggeringly silly price of $10.61 per share (Citi closed at $3.77 on Friday). 
+
+The government (should have) had two goals for this bailout. First, since everyone assumes Citi is too big to fail, the bailout had to be big enough that it would settle the matter once and for all. Second, it had to define a standard set of terms that other banks could rely on and, more importantly, the market could rely on being there for other banks. This plan fails on both counts. 
+
+The arithmetic on this deal doesn’t seem to work for me (feel free to help me out). Citi has over $2 trillion in assets and several hundred billions of dollars in off-balance sheet liabilities. $27 billion is a drop in the bucket. Friedman Billings Ramsey last week estimated that Citi needed $160 billion in new capital. (I’m not sure I agree with the exact number, but that’s the ballpark.) Yes, there is a guarantee on $306 billion in assets (which will not get triggered until that $27 billion is wiped out), but that leaves another $2 trillion in other assets, many of which are not looking particularly healthy. If I’m an investor, I’m thinking that Citi is going to have to come back again for more money. 
+
+In addition, the plan is arbitrary and cannot possibly set an expectation for future deals. In particular, by saying that the government will back some of Citi’s assets but not others, it doesn’t even establish a principle that can be followed in future bailouts. In effect, the message to the market was and has been: “We will protect some (unnamed) large banks from failing, but we won’t tell you how and we’ll decide at the last minute.)” As long as that’s the message, investors will continue to worry about all U.S. banks. 
+
+The third goal should have been getting a good deal for the U.S. taxpayer, but instead Citi got the same generous terms as the original recapitalization. 8% is still less than the 10% Buffett got from Goldman; a cap on dividends is a nice touch but shouldn’t affect the value of equity any. By refusing to ask for convertible shares, the government achieved its goal of not diluting shareholders and limiting its influence over the bank. And an exercise price of $10.61 for the warrants? It is justified as the average closing price for the preceding 20 days, but basically that amounts to substituting what people really would like to believe the stock is worth for what it really is worth ($3.77). 
+
+How does this kind of thing happen? A weekend is really just not that much time to work out a deal. Maybe next time Treasury and the Fed should have a plan before going into the weekend?
+
+What, and ruin a perfect record? Robert Reich:
+ Citigroup Scores: If you had any doubt at all about the primacy of Wall Street over Main Street; the utter lack of transparency behind the biggest government giveaway in history to financial executives, and their shareholders, directors, and creditors; and the intimate connections the lie between Administrations , both Republican and Democratic , and the heavyweights on Wall Street, your doubts should be laid to rest. Today it was decided the government will guarantee more than $300 billion of troubled mortgages and other assets of Citigroup under a federal plan to stabilize the lender after its stock fell 60 percent last week. The company will also will get a $20 billion cash infusion from the Treasury Department, adding to the $25 billion the bank received last month under the Troubled Asset Relief Program. 
+
+This is not a particularly good deal for American taxpayers, but it is a marvelous deal for Citi. In return for all the cash and guarantees they are giving away, taxpayers will get only $27 billion of preferred shares paying an 8 percent dividend. No other strings are attached. The senior executives of Citi, including those who have served at the highest levels in the US government, have done their jobs exceedingly well. The American public, including the media, have not the slightest clue what just happened. 
+
+Meanwhile, more than a million workers in the automobile industry, along with six million mortgagees, and a millions of Americans who depend on small businesses and retailers for paychecks, are getting nothing at all.
+
+As I noted the other day, the difference in urgency between saving wall street and saving main street is apparent.
+
+John Jansen says somebody will pay for this:
+
+
+Reaction to the Bailout: Tokyo is closed so there is no US Treasury trading this evening. We will have to wait for Europe to arrive to get a reaction.
+
+Stocks are higher. That also seems ludicrous. I do not care what they call this but Citibank is effectively acknowledging that they did not have the resources to survive alone without government assistance. I did not use the words bankrupt or insolvent.
+
+I think that when participants think about this soberly they will be very disturbed and  I am saddened to say that the markets will line up one of the remaining survivors for a pre holiday turkey shoot. It has been the history of this rolling crisis since August 2007 that the worst outcome ensues. The market will seek another prey and relentlessly pursue it.
+
+Update: Paul Krugman: 
+A bailout was necessary — but this bailout is an outrage: a lousy deal for the taxpayers, no accountability for management, and just to make things perfect, quite possibly inadequate, so that Citi will be back for more.
+
+Amazing how much damage the lame ducks can do in the time remaining.
+
+Update: More from  Arnold Kling
+
+
+For all of the Depression Mania, there is a lot of the U.S. economy that does not have to shrink. Manufacturing is pretty lean to begin with. Housing construction is already much lower than it has been in years. Unlike the 1930's, we have some very big sectors (health care, education, other government employment) that are unlikely to develop massive layoffs. 
+
+The one sector that definitely needs to contract is the financial sector. Maintaining Citi as a zombie bank is not really constructive. I would feel better if it were carved up, with the viable pieces sold to other firms and the remainder wound down by government. In my view, getting the financial sector down to the right size ought to be done sooner, rather than later. 
+
+From my perspective, the whole TARP/bailout concept is misconceived. The priority should not be saving firms. The priority should be pruning the industry. Get rid of the weak firms, and make good on deposit insurance. Then let the remaining firms provide the lending that the economy needs.
+
+Update: Felix Salmon says the bailout is underwhelming.
+
+Update: John Hempton:
+
+
+The consensus is that the Citigroup bailout was bad...I am going to differ here.  The bailout was well designed...
+
+except
+
+1) The Government should have taken a much larger fee - at least 20 percent ownership of Citigroup - and arguably more.  Shareholders should be punished.
+
+2) The attachment point of the excess of loss policy is too high.   If the attachment point had been 80 billion Citigroup would survive.  There was no need for a 40 billion dollar attachment point.  
+
+The problem with the bailout was not the design - it was the amount extracted from Citigroup shareholders.  The government took too much risk for too little reward.
+
+I am surprised that the shareholders were not effectively wiped out as per Fannie, Freddie, AIG.
+
+Not displeased - but somewhere I wish the government would get a happy medium somewhere - rather than one rule Citigroup and one rule for Fannie.
+
+Update: Andrew Samwick:
+
+
+The technical term for this is a joke. 
+
+Citigroup has plenty of assets.  It has just written too many claims on those assets.  Those holding those claims need to face the reality that their claims are worth less than they were promised and adjust to that reality.  That means either liquidating the firm, selling off the assets to the highest bidders, or becoming the new equity holders of the firm.  The FDIC can get involved as needed to manage its contingent liabilities to insured depositors.
+
+If the government is to get involved beyond that, it should be senior debt to the restructured entity, not preferred equity (i.e. junior to the most junior debt) to the existing entity.
+
+Update: Barry Ritholtz:
+
+
+Un-fricking-believable.
+
+The US is guaranteeing $306 billion on bad investments (So much for Capitalism without failure). For Citi, its a great deal — but its a terrible one for taxpayers.
+
+The dividend payment has been restricted to one cent per quarter for 3 years. Can someone explain why even a penny is allowed?
+
+Where is the “Protection” for the taxpayers? Where are the clawbacks? How about going after the idiots that bought a third of a trillion dollars worth of junk, and then got paid large on it? Where is the sense of outrage and justice?
+
+At what point do taxpayers demand that the people responsible for creating this mess must pay their pound of flesh?
+
+Update: Brad DeLong:
+
+
+It is unclear to me why they aren't just buying common stock. As it is, they're endangering their own reputations to an extraordinary degree...

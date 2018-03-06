@@ -1,0 +1,20 @@
+Google launches Poly, a home for the world’s 3D objects built for creators
+
+
+As Google builds platforms like ARCore and Daydream that allow users to step into virtual worlds or put virtual scenes inside their phone’s field-of-view, there’s a big onus on game developers to craft the content that makes the platforms worth checking out.
+
+Google is looking to make creators’ jobs a bit easier today with the launch of Poly, the company’s new home for 3D objects on the world wide web.
+
+The new product dials in on Google’s mission to “organize the world’s information” and makes a one-stop shop for users to browse 3D objects and scenes created in the company’s virtual reality products like Tilt Brush and Blocks. The app was built with VR and phone-based AR platforms in mind.
+
+
+
+To kickstart users uploading content, Google commissioned artists to create thousands of objects, everything from an oven to an iceberg to a can of whipped cream so that the platform starts with a base level of utility for creators.
+
+
+
+It’s an all-you-can-eat Creative Commons buffet as Google is focused (for now at least) on building a discovery platform stocked with freebies rather than one filled with creators hocking their 3D objects for cash.
+
+Many of the objects you see featured will have the low-polygon style that are familiar in Blocks, the company’s VR 3D object creation app. Google says this is partially a stylistic choice, but it’s also a great fit for the company’s Daydream VR platform, which is often resource-intensive and will obviously run more efficiently when the objects it’s rendering are a bit simpler.
+
+Moves like this that position Google more firmly in the camp of game developers are interesting ones for the company, which has generally approached that community in a more round-about way. Here, Google is adding functionality found in other places like the Unity and Unreal game engines’ asset stores, but is doing so in a way that seems to be very much additive to the experience of game devs.

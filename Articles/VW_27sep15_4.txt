@@ -1,0 +1,36 @@
+"Bosch warned VW about illegal software use in diesel cars, report says
+
+
+MUNICH -- Robert Bosch warned Volkswagen in 2007 that it would be illegal to use engine management software at the heart of the diesels emissions scandal in production cars, German newspaper Bild am Sonntag said.
+
+VW was also warned by one of its own engineers in 2011 about illegal emissions testing practices, a report in the Frankfurter Allgemeine Zeitung's Sunday edition said, citing initial results of a VW internal investigation.
+
+Bild am Sonntag said Bosch supplied diesel software to VW for test purposes but it ended up in vehicles on the road. Bosch wrote to VW saying that such use was unlawful, according to the paper's report, which did not cite sources.
+
+Bosch, the world's biggest supplier, is adding up the cost to its business and reputation of the VW emissions scandal.
+
+A Bosch spokesman told Reuters on Sunday that the company's dealings with VW were confidential. VW declined to comment on the details of either newspaper report.
+
+Last week, Bosch said it had delivered components to VW that are now at the center of a probe into rigged emissions tests. The components included delivery and metering modules for exhaust gas treatment and common-rail injection systems and responsibility for configuring handling characteristics of these components ""lies with Volkswagen,"" a Bosch spokesman told Automotive News Europe last week.
+
+Cost-cutting said to be at heart of crisis
+
+
+Bild am Sonntag said the roots of the crisis were planted in 2005 when then-VW brand chief Wolfgang Bernhard wanted VW to develop a new diesel engine for the U.S. market. Bernhard recruited Audi engineer Rudolf Krebs who developed a prototype that performed well in tests in South Africa in 2006, the paper said.
+
+Bernhard and Krebs argued that the only way to make the engine meet U.S. emission standards was to employ in the engine system an AdBlue urea solution used on larger diesel models such as the Passat and Touareg, according to the report.
+
+This would have added a cost of 300 euros per vehicle -- a sum that VW finance officials said was too much at a time when a companywide cost-cutting exercise was underway.
+
+Bernhard left VW in January 2007 before the diesel engine went into production. Krebs was moved to another role when Martin Winterkorn became VW Group and brand CEO in 2007.
+
+Winterkorn, Audi's former CEO, asked Audi development boss Ulrich Hackenberg and Audi engine boss Wolfgang Hatz to move to VW's Wolfsburg headquarters and continue development work on the engine, Bild am Sonntag said.
+
+The engine then ended up in VW Group diesels with its engine software manipulated to fool diesel emissions tests in the U.S.
+
+VW has admitted that 11 million diesel engines sold globally have software ""irregularities,"" though media reports have said the software manipulation tweaks are not activated in the bulk of them.
+
+Bild am Sonntag said Hackenberg and Hatz, who deny they knew about any illegal activities, have been relieved of their responsibilities.
+
+The U.S. Environment Protection Agency said in a statement issued Sept. 18 that the software detects when a car is undergoing EPA emissions testing and turns on the vehicle’s full emissions controls. The software then switched off the full emissions controls during real-world driving.
+"

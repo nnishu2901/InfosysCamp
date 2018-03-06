@@ -1,0 +1,6 @@
+Google's Poly is a one-stop shop for AR and VR objects
+
+It isn't easy to build a virtual reality app, especially when it comes to filling out those immersive worlds. Even a semi-realistic world requires tons of objects, which isn't always practical for a small studio. What to do? Google might have an answer: it just introduced Poly, a library of free 3D objects for augmented and virtual reality apps. Some of them are simple (like trees and fortune cookies), but others are elaborate and interesting in their own right -- yes, that Wonder Woman image you see above is 3D. You're frequently allowed to modify the models in case they don't quite fit your needs, and you can share them as GIFs or explore them in VR viewers.
+
+
+The objects are platform-independent and should work in platforms like Google's own ARCore or Apple's ARKit. Will you suddenly see a glut of AR and VR apps using Poly? Not necessarily -- many developers want to give their games a distinct look, and that usually means custom objects. This should help smaller developers at least get the ball rolling, though, and we could easily see developers of all sizes using this to quickly prototype an idea before they commit to it in earnest.

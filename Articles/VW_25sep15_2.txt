@@ -1,0 +1,76 @@
+"   What the emissions scandal means for the environment
+
+Want to know the dirt on VW's faked diesel emissions? DW's environment desk provides an overview of what happened, what it means for health and the environment, and ramifications for green mobility.
+
+France traffic jam A6  
+
+
+
+It's looking increasingly like the bogus nitrogen oxide emissions results from Volkswagen cars in the US are only one problem among many associated with automobile emissions worldwide.
+
+Governments may have been in cahoots with carmakers for years over efforts to understate the health and environmental damage caused by automotive emissions - according to experts who say their warnings had long been ignored.
+
+Emissions at the center of the VW scandal have been nitrogen oxides - but they're not the only issue. Fuel efficiency results also have been consistently exaggerated to make them look better than they really are under real-world driving conditions, critics say.
+
+What's at stake: health risks from air pollution
+
+Nitrogen oxides (NO or NO2, collectively labeled NOx) are gases produced during fuel combustion and can damage lung tissue, worsen respiratory diseases, or react with other compounds to form various toxic compounds that could cause cancer.
+
+A variety of emission-control measures are used to limit the amount of NOx produced by fossil-fuel burning vehicles, including particulate filters, catalytic devices, and electronic engine management mechanisms to control temperature and fuel/air mix ratios at which automotive fuel burns in internal combustion engines.
+
+What happened: falsified emissions measurements
+
+a
+
+Although the emissions scandal broke open just a week ago, it's been years in the making.
+
+In 2013, the independent nonprofit technical agency called the International Council on Clean Transportation commissioned researchers at West Virginia University (WVU) to conduct tests to determine whether diesel cars were as clean under real-world driving conditions as they were listing as being under the laboratory emissions test conditions used by regulators.
+
+WVU found that under real-world driving conditions, two Volkswagen turbocharged direct injection (TDI) diesel car models emitted far more nitrogen oxide (NOx) emissions than the maximum permitted by law. Yet under laboratory test conditions, the VWs were safely within the legal maximum.
+
+The reason, it turned out, was that VW had equipped millions of its VW and Audi cars produced between 2009 and 2014 with an emissions-compliance ""defeat device,"" in the form of special software installed on an engine management chip.
+
+The software was able to detect when a car was undergoing standard emissions tests. Under those conditions, it would activate emissions controls.
+
+Under normal driving conditions, however, the chip switched off the emissions controls, allowing the engine to produce more torque and get better fuel economy - at the expense of emitting up to 40 times as much NOx as the maximum permitted by law.
+
+What resulted: clean transport groups inform government agencies 
+
+A VW diesel engine  
+A Volkswagen diesel engine with the emissions testing defeat chip
+
+ICCT and WVU presented their test results to federal and state regulatory agencies in May 2014. On September 18, 2015, these agencies notified Volkswagen Group that 480,000 VW and Audi cars had been sold in the US with emissions test defeat devices installed.
+
+Volkswagen immediately became the target of criticism, and the company's shares dove in trading this week. On Wednesday, September 22, VW CEO Martin Winterkorn took responsibility for the scandal by resigning - but said he had had no knowledge of the emissions scam.
+
+The company announced it would undertake a thorough internal investigation, cooperate fully with authorities, and sack all those found responsible for the malfeasance. Regulators in several countries announced they would investigate to find out whether emissions scams affected cars sold in their jurisdictions.
+
+A big question circulating now is: Was Volkswagen the only perpetrator of emissions results trickery, or have other carmakers done similar things?
+
+The scope: 'emissionsgate' continues to grow
+
+On September 24, German Transport Minister Alexander Dobrindt announced that some 2.8 million Volkswagen Group automobiles in Germany were also likely to have been included.
+
+ICCT also tested European cars in 2014, to compare their NOx emissions results and fuel efficiency results under real-world driving conditions with those of their standardized test results.
+
+They found that standardized test results regularly tend to overestimate fuel efficiency and underestimate harmful emissions. This is due not to dodgy chips like in the Volkswagen diesel case, but because the tests are designed to produce unrealistic results.
+
+Governments are accused of having long acceded to automotive industry demands to set up unrealistic tests that allow carmakers to understate emissions and overstate fuel efficiency, according to critics like ICCT's Axel Friedrich.
+
+Toyota assembly line in Japan  
+Toyota has just introduced a revamped Prius hybrid. Should VW finally join the hybrid revolution?
+
+In Germany, Green Party transport critic Stephan Kühn has said Volkswagen's scam was ""only the tip of the iceberg.""
+
+Under pressure from environmentalists, European authorities were already in the process of developing new standard emissions and fuel efficiency tests intended to more accurately simulate real driving conditions. But critics say governments have been dragging their feet on proposed improvements.
+
+Environmental and consumer group are calling for new Europe-wide emissions and fuel efficiency testing standards to be introduced sooner than planned, and to ensure that no loopholes remain that would allow test results to be slanted or sugarcoated.
+
+What's next?
+
+Volkswagen had chosen ""clean diesel"" as a strategy for addressing concerns about carbon dioxide emissions from automobiles, arguing that the greater fuel efficiency of diesel engines in terms of liters of fuel used was a step toward reducing greenhouse gas emissions.
+
+Aside from speculation that the emissions scandal may eliminate any reputation VW may have had as an eco-friendly automobile manufacturer, many have been looking more broadly at how this could play out on green mobility in general.
+
+Many who advocate cleaner transport, like Jos Dings of Transport & Environment, hope that this scandal will push governments to better police automobile emissions - and may encourage consumers to opt more for electric mobility.
+"

@@ -1,0 +1,7 @@
+Google is launching an AR and VR object library called Poly
+
+Google is opening a new platform called Poly where people can find and distribute virtual and augmented reality objects. The tool is integrated with Tilt Brush and Blocks, respectively Google’s VR painting and sculpting apps, and is meant to provide an art library for people building with Google’s ARCore, Apple’s ARKit, or various VR development platforms.
+
+While you could already browse objects made in Google Blocks, this is a more formal project that’s aimed at making it easier to whip together a VR or AR app. Google says that modelers are supposed to upload work for free, and other users can build on or remix their work, which will create a new listing that credits and links back to the original. While you can directly upload files, Google is touting the ability to pull objects directly into a VR workspace and edit them.
+
+There are already many asset stores for virtual objects, most of which offer payment systems that let people support themselves through 3D development. Poly sounds more like a hobbyist system, which fits with Google’s goal of making its new AR platform simple for newcomers to use. Users can browse the store now, and Google says it will be building out the platform later with an API, which developers can sign up to preview down the road.

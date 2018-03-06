@@ -1,0 +1,44 @@
+
+
+Vertex Pharmaceuticals said Tuesday that its three-drug cocktails improved a measure of lung function in patients with cystic fibrosis by 9.6 percentage points or more, surpassing Wall Street's expectations and setting the company up to advance a medicine to treat thousands more patients with the disease.
+ 
+In after-hours trading, Vertex shares surged more than 26 percent. 
+
+The Boston-based biotech company is testing multiple combination regimens to find the best cocktail for a majority of patients with cystic fibrosis.
+
+
+Vertex has brought to market medicines for genetic forms of the disease affecting about 30,000 of the 75,000 people with CF worldwide; the majority of patients, though, still have no approved treatment options that target the disease's underlying cause.
+
+Cystic fibrosis is a rare, genetic disease that causes mucus to build up in the lungs and other organs, leading to infections, damage and respiratory failure. It's driven by mutations in a gene known as CFTR, and because different mutations manifest in slightly different ways, multiple drugs have been needed to effectively treat the disease.
+
+The results released Tuesday are from studies aiming to expand treatment options to 90 percent of people with cystic fibrosis, those with one copy of a mutation known as F508del, and one minimal function mutation.
+
+They were from two phase 2, or midstage, clinical trials, and one phase 1 study evaluating three different triple-combination regimens. The studies tested three different experimental drugs, each on top of a regimen of two other drugs, called tezacaftor and ivacaftor.
+
+The primary goal of the study was improvement in a measure of lung function known as FEV1, for forced expiratory volume: it's the measure of how much air someone can expel in one second.
+
+In the two phase 2 studies, one drug, called VX-152, showed a 9.7 percentage point average improvement in that measure, on top of the two-drug cocktail. Another, called VX-440, showed a 12 percentage point average improvement. A third, VX-659, in a phase 1 study, improved FEV1 by an average of 9.6 percentage points.
+
+Anything more than 2.5 percentage points would have been considered a success by Wall Street, according to Michael Yee, an analyst at Jefferies. He wrote in a July 10 research note that results of that magnitude could drive Vertex's shares above $150 (from $130 at that time; they closed Tuesday at $132.16).
+
+Vertex also said the regimens were generally well-tolerated across all three studies. The company provided the results early to CNBC on condition they not be shared with anyone until they were released publicly Tuesday.
+
+"These safety and efficacy data are clear and compelling, indicating significant potential benefit for people with CF from each of these three different triple combination regimens," Vertex's chief medical officer, Dr. Jeffrey Chodakewitz, said in a statement.
+
+The next step is for Vertex to decide which regimen, or regimens, to move into a late-stage clinical trial, expected to begin in the first half of 2018.
+
+The results are an important step for the company and for the treatment of cystic fibrosis.
+
+Vertex was the first to develop a medicine targeting the root genetic cause of the disease; called Kalydeco, the treatment was approved by the Food and Drug Administration in 2012 and targets mutations accounting for about 4,500 cases of CF worldwide, according to Vertex.
+
+The company received approval for its second CF treatment, Orkambi, in 2015. A combination of Kalydeco (whose chemical name is ivacaftor, part of the regimens reported on Tuesday) and another drug, lumacaftor, was cleared for people with two copies of the F508del mutation, about 25,000 patients worldwide.
+
+Still, that leaves more than 40,000 patients with no treatments targeting the underlying cause of the disease. The regimens reported on Tuesday could expand treatment options to another 40 percent of CF patients, Vertex said.
+
+Despite the small patient numbers, it's been big business for the company: Orkambi and Kalydeco together drew $1.7 billion in 2016 revenue. Jefferies' Yee estimates a successful triple-combination regimen could bring in an additional $1 billion a year.
+
+Vertex doesn't sound like it intends to stop there.
+
+"Our ultimate goal is effectively one pill, taken once a day, that actually gets to carrier level-like activity of chloride flux," Vertex Chief Financial Officer Ian Smith told JPMorgan analyst Cory Kasimov on a June conference call, according to a transcript.
+
+Translation: that would mean "that CF is now an asymptomatic disease if you're taking a Vertex medicine," Smith said. "And so we're going to keep going."

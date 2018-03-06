@@ -1,0 +1,24 @@
+Creators Will Love ‘Poly’ – Google’s New Open Library For 3D Objects
+ 
+Google has recently introduced Poly, which is an open library that enables people to easily find free 3D objects for AR and VR apps.
+
+Highlighting the integration with Tilt Brush and Google Blocks, this platform lets users to browse free models.
+
+They will able to edit these models easily or remix them to come up with a unique version for their works.
+
+In that case, there will be a new listing that credits and links to the original one to make sure every artist is known for their work.
+
+Google‘s Jason Toff, a Group Project Manager for Poly, said:
+
+
+In the same way today that anyone can create a webpage and, increasingly, anyone can create a mobile app, we are so far from that with AR and VR.
+
+Part of the way we came about this idea was as we were developing apps internally, this was the biggest thorn in out sides as developers on the team.
+
+Browse, discover and download 3D objects and scenes.
+
+As it is shared, artists have been entrusted with creating thousands of objects, which could basically be anything that users can think!
+
+From iceberg to apple tree; bowl of rice to common figures, such as doctor or astronaut.
+
+What is more, users will be able to download the objects they choose, directly as OBJ files.

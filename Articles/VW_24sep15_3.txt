@@ -1,0 +1,59 @@
+"
+Volkswagen emissions scandal: Forty years of greenwashing - the well-travelled road taken by VW 
+
+
+The German car giant may have used highly sophisticated software to cheat in emissions tests, but other car and truck makers have been prosecuted for their ‘defeat devices’ ever since traffic pollution first became an issue
+
+           
+VW was involved in another emissions scandal in 1973 Getty 
+
+
+
+
+Almost as soon as governments began testing vehicle emissions, carmakers found ways to cheat.
+
+In the 1970s, some vehicles were found to be rigged with “defeat devices” that turned off the emission systems when the air-conditioning was on. Others had sensors that activated pollution controls only at the temperature regulators used during the tests.
+
+“The concept of a defeat device has always been there, because there’s such an incentive for the manufacturers to cheat on the emissions tests,” said Clarence Ditlow at Washington’s Center for Auto Safety. Volkswagen “took it to another level of sophisticated deception we’ve never seen before”.
+
+
+
+
+The EPA suspected that VW had sold 25,000 vehicles with the cheating technology. The US took the company to court for violating the Clean Air Act. It settled with a $120,000 fine without admitting any wrongdoing.
+
+In 1995 General Motors agreed to pay $45m after being accused of circumventing pollution controls on 470,000 Cadillac luxury sedans. The cars’ 4.9-litre V8 engines were tuned to turn off pollution controls when the air-conditioning ran, the EPA said at the time.
+
+The government alleged that the engines, installed for the model years from 1991 to 1995, ended up releasing 100,000 tons of excess carbon monoxide into the atmosphere. GM disagreed, saying it was paying the fine as part of a conciliatory approach inn order to dispose of enforcement cases more quickly.
+
+Besides agreeing to cover $25m in recall costs, GM paid an $11m fine and agreed to spend $9m in “corporate community service”.
+
+To help the cause of cleaner air, the Detroit-based carmaker agreed to buy back older, more polluting cars and provide school districts with buses powered by batteries or natural gas.
+
+The EPA says VW has admitted to using defeat devices in the 482,000 cars now under investigation in the US. The agency says the devices sensed when they were being tested on a dynamometer. In these circumstances, the car uses an emission control system that traps nitrogen oxide, a key ingredient in smog. When the car senses it is on the road, it cuts back on the emission control – releasing from 10 to 40 times the permissible amount of nitrogen oxide.
+
+“It takes a very savvy program to fool the computer and detect the sophisticated test cycle,” said Stanley Young, at the California Air Resources Board, which is also investigating VW. “This was clearly well thought-out and took a lot of programming.
+
+“Engines these days are very complicated,” he added. “So there is a sophisticated and powerful computer inside all cars, and that was where this algorithm, this ‘second routine’, was embedded.”
+
+VW could be fined as much as $18bn (£12bn) and may have to recall and fix the cars in the US. European authorities are conducting their own investigation, as are those in South Korea, which could result in further penalties.
+
+The current VW case resembles a 1998 case involving seven manufacturers of heavy-duty truck engines: Caterpillar, Cummins, Detroit Diesel, Mack Trucks, Navistar International Transportation, Renault Véhicules Industriels, and Volvo Trucks.
+
+The companies agreed to spend more than $1bn, including $83.4m in penalties, to settle the case – the biggest civil fine at that point for violating an environmental law. Attorney General Janet Reno cautioned the industry that “an ounce of compliance is worth a pound of penalties”.
+
+As with VW, the truck-engine makers used software to alter pollution-control technology under highway driving conditions. The engines met emissions limits when they ran on the EPA’s 20-minute federal test procedure. On real-world highways, they spewed up to three times the legal limit for nitrogen oxide, regulators said. The result was 1.3 million tonnes of excess nitrogen oxide in 1998 alone.
+
+The industry agreed to spend more than $850m to accelerate the development of cleaner engines, to rebuild older engines and to recall pick-up trucks that were equipped with defeat devices.
+
+Also in 1998, the US Justice Department and the EPA settled a $267m case with Honda and a separate $7.8m case with Ford for selling cars with systems designed to defeat emissions control systems.
+
+Last year, the South Korean carmakers Hyundai and Kia agreed to pay the equivalent of $350m in fines, forfeited credits and certification testing to settle US claims that they overstated fuel economy on the window stickers that buyers see in showrooms.
+
+The companies tested cars only at optimal temperatures and used the best results rather than averages, said the EPA. The inflated mileage claims affected 1.2 million vehicles sold in the US.
+
+The Korean giants agreed to compensate consumers for the misleading mileage claims by issuing debit cards.
+
+Ford had to lower its fuel-efficiency estimates for certain models twice in less than a year, citing a computer- modelling error. It sent out payments ranging from $200 to $1,050 to pay 200,000 customers last year.
+
+“Volkswagen made a point in selling these cars that they’re clean,” said Frank O’Donnell at the Washington-based Clean Air  Watch. “It’s too bad that their technology wasn’t as good as their ads.”
+"

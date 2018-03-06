@@ -1,0 +1,25 @@
+"Volkswagen under investigation over illegal software that masks emissions 
+California and EPA accuse VW of installing ‘defeat device’ software that reduces nitrogen oxide emissions while a car is undergoing official tests 
+The US government has ordered Volkswagen to recall almost 500,000 cars after discovering that the company deployed sophisticated software to cheat emission tests allowing its cars to produce up to 40 times more pollution than allowed.
+
+The Environment Protection Agency (EPA) on Friday accused VW of installing illegal “defeat device” software that dramatically reduces nitrogen oxide (NOx) emissions – but only when the cars are undergoing strict emission tests.
+
+“Put simply, these cars contained software that turns off emissions controls when driving normally and turns them on when the car is undergoing an emissions test,” Cynthia Giles, an EPA enforcement officer said. “We intend to hold Volkswagen responsible.
+
+“VW was concealing the facts from the EPA, the state of California and from consumers. We expected better from VW,” she said. “Using a defeat device in cars to evade clean air standards is illegal and a threat to public health.”
+
+The EPA accused Volkswagen of using the device in 482,000 four-cylinder Volkswagen and Audi diesel cars in the US since 2008. VW must recall all the cars, remove the defeat device and improve the cars’ NOx emissions, which creates smog and has been linked to increased asthma attacks and other respiratory illnesses.
+
+The Volkswagen emissions scandal explained  
+
+“A sophisticated software algorithm on certain Volkswagen vehicles detects when the car is undergoing official emissions testing, and turns full emissions controls on only during the test,” the EPA said in a statement. “The effectiveness of these vehicles’ pollution emissions control devices is greatly reduced during all normal driving situations. This results in cars that meet emissions standards in the laboratory or testing station, but during normal operation, emit nitrogen oxides, or NOx, at up to 40 times the standard.”
+
+Richard Corey, executive officer of the California Air Resources Board (Carb), said: “Our goal now is to ensure that the affected cars are brought into compliance, to dig more deeply into the extent and implications of Volkswagen’s efforts to cheat on clean air rules, and to take appropriate further action.”
+
+The EPA said Volkswagen could face other action and fines for the alleged breach of the Clean Air Act. The maximum fine for violations of the act is $37,500 per vehicle, which works out to a maximum possible fine as high as $18bn.
+
+The EPA and Carb discovered the “defeat device” software following independent analysis by researchers at West Virginia University, who were promoted into action by the International Council on Clean Technology, an NGO. 
+
+When confronted with the EPA and Carb’s evidence, VW admitted that its cars were fitted with the “defeat device”.
+
+VW refused to comment."

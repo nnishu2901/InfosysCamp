@@ -1,0 +1,52 @@
+SEC Charges Goldman Sachs With Fraud in Structuring and Marketing of CDO Tied to Subprime Mortgages
+
+FOR IMMEDIATE RELEASE
+ 2010-59
+
+Washington, D.C., April 16, 2010 — The Securities and Exchange Commission today charged Goldman, Sachs & Co. and one of its vice presidents for defrauding investors by misstating and omitting key facts about a financial product tied to subprime mortgages as the U.S. housing market was beginning to falter.
+
+
+
+Additional Materials
+##Litigation Release No. 21489
+##SEC Complaint
+
+
+The SEC alleges that Goldman Sachs structured and marketed a synthetic collateralized debt obligation (CDO) that hinged on the performance of subprime residential mortgage-backed securities (RMBS). Goldman Sachs failed to disclose to investors vital information about the CDO, in particular the role that a major hedge fund played in the portfolio selection process and the fact that the hedge fund had taken a short position against the CDO.
+
+"The product was new and complex but the deception and conflicts are old and simple," said Robert Khuzami, Director of the Division of Enforcement. "Goldman wrongly permitted a client that was betting against the mortgage market to heavily influence which mortgage securities to include in an investment portfolio, while telling other investors that the securities were selected by an independent, objective third party." 
+
+Kenneth Lench, Chief of the SEC's Structured and New Products Unit, added, "The SEC continues to investigate the practices of investment banks and others involved in the securitization of complex financial products tied to the U.S. housing market as it was beginning to show signs of distress."
+
+The SEC alleges that one of the world's largest hedge funds, Paulson & Co., paid Goldman Sachs to structure a transaction in which Paulson & Co. could take short positions against mortgage securities chosen by Paulson & Co. based on a belief that the securities would experience credit events.
+
+According to the SEC's complaint, filed in U.S. District Court for the Southern District of New York, the marketing materials for the CDO known as ABACUS 2007-AC1 (ABACUS) all represented that the RMBS portfolio underlying the CDO was selected by ACA Management LLC (ACA), a third party with expertise in analyzing credit risk in RMBS. The SEC alleges that undisclosed in the marketing materials and unbeknownst to investors, the Paulson & Co. hedge fund, which was poised to benefit if the RMBS defaulted, played a significant role in selecting which RMBS should make up the portfolio.
+
+The SEC's complaint alleges that after participating in the portfolio selection, Paulson & Co. effectively shorted the RMBS portfolio it helped select by entering into credit default swaps (CDS) with Goldman Sachs to buy protection on specific layers of the ABACUS capital structure. Given that financial short interest, Paulson & Co. had an economic incentive to select RMBS that it expected to experience credit events in the near future. Goldman Sachs did not disclose Paulson & Co.'s short position or its role in the collateral selection process in the term sheet, flip book, offering memorandum, or other marketing materials provided to investors.
+
+The SEC alleges that Goldman Sachs Vice President Fabrice Tourre was principally responsible for ABACUS 2007-AC1. Tourre structured the transaction, prepared the marketing materials, and communicated directly with investors. Tourre allegedly knew of Paulson & Co.'s undisclosed short interest and role in the collateral selection process. In addition, he misled ACA into believing that Paulson & Co. invested approximately $200 million in the equity of ABACUS, indicating that Paulson & Co.'s interests in the collateral selection process were closely aligned with ACA's interests. In reality, however, their interests were sharply conflicting.
+
+According to the SEC's complaint, the deal closed on April 26, 2007, and Paulson & Co. paid Goldman Sachs approximately $15 million for structuring and marketing ABACUS. By Oct. 24, 2007, 83 percent of the RMBS in the ABACUS portfolio had been downgraded and 17 percent were on negative watch. By Jan. 29, 2008, 99 percent of the portfolio had been downgraded.
+
+Investors in the liabilities of ABACUS are alleged to have lost more than $1 billion.
+
+The SEC's complaint charges Goldman Sachs and Tourre with violations of Section 17(a) of the Securities Act of 1933, Section 10(b) of the Securities Exchange Act of 1934, and Exchange Act Rule 10b-5. The Commission seeks injunctive relief, disgorgement of profits, prejudgment interest, and financial penalties.
+
+# # #
+
+For more information about this enforcement action, contact: 
+
+Lorin L. Reisner
+ Deputy Director, SEC Enforcement Division
+ (202) 551-4787
+
+Kenneth R. Lench
+ Chief, Structured and New Products Unit, SEC Enforcement Division
+ (202) 551-4938
+
+Reid A. Muoio
+ Deputy Chief, Structured and New Products Unit, SEC Enforcement Division
+ (202) 551-4488
+ 
+ 
+http://www.sec.gov/news/press/2010/2010-59.htm

@@ -1,0 +1,75 @@
+"
+
+What you need to know about the Volkswagen scandal
+
+
+What did Volkswagen do?
+
+
+The company is said to have been caught cheating on American air pollution tests. Volkswagen installed sophisticated software known as ""defeat devices"" in the electronic control module of diesel vehicles issued between 2008 and 2015. This software was able to sense when emissions testing was in progress based on the position of the steering wheel, vehicle speed, the duration of the engine's operation and barometric pressure. Once the software picked up on these inputs, it went into a type of ""test mode"" when the front wheels of the car were on a dynamometer. This allowed emissions controls to run full-tilt during official testing, but emitted 10 to 40 times the legal amount while on the road. 
+
+The allegations were made by the U.S. Environmental Protection Agency on Sept. 18, after independent researchers raised questions about emissions levels, prompting government agencies to investigate further. 
+
+
+Once regulators demanded an explanation, the EPA said Volkswagen ""admitted"" their cars contained those defeat devices. 
+
+
+How did VW react?
+
+
+High-ranking executives have spoken out in recent days, with CEO Martin Winterkorn saying he was ""deeply sorry"" to have broken public trust and promised VW would fully cooperate with regulators. 
+
+VW called for an external investigation and is now conducting an internal probe. 
+
+During a launch event in Brooklyn this week, VW's North America CEO, Michael Horn, made a starker concession, saying ""our company was dishonest"" and that Volkswagen ""totally screwed up."" Still, a press release on Sept. 21 still referred the defeat devices as software ""irregularities.""
+
+""We do not and will not tolerate violations of any kind of our internal rules or of the law,"" Winterkorn's statement said. 
+
+
+
+Will Volkswagen be punished?
+
+
+The automaker could face U.S. fines of $37,500 per vehicle, the EPA told reporters last week. With around 482,000 of its diesel vehicles sold in the U.S. since 2008, this could mean a penalty of up to $18 billion. 
+
+Class-action lawsuits from customers are still on the table, too, but VW could face more than civil penalties. Reports suggest the U.S. Department of Justice has launched a criminal probe into whether the company deliberately cheated emissions tests.
+
+The EPA has not yet forced Volkswagen to issue a total recall but expects to do so in the near future. Volkswagen would foot the bill for any repairs, although the EPA claims affected diesel cars are still safe to drive. 
+
+
+
+Will VW face fire outside the US?
+
+
+The scandal has spread across the globe and Volkswagen now estimates 11 million vehicles worldwide are equipped with the defeat device software. 
+
+European authorities are reportedly planning to call a meeting of national representatives to discuss the case, though Italy and Switzerland are among the few that have launched their own investigations. Germany, Volkswagen's home country, is also planning to implement additional testing. 
+
+South Korea will conduct its own probe and has summoned Volkswagen reps to discuss the scandal. 
+
+
+
+Is this the end of Volkswagen as we know it?
+
+
+A research note from ratings agency Fitch says Volkswagen should be able to absorb potential penalties from a U.S. investigation, adding that it's unlikely the company will face the maximum $18 billion fine. Fitch went on to praise the group's financial structure and ""robust"" free cash flow generation, which it predicted will reach 3.5 billion euros in 2015. 
+
+However, Volkswagen issued a statement Tuesday outlining a 6.5-billion euro provision to cover any service costs and ""other efforts"" meant to restore public trust, but that amount could be amended as investigations continue. Group earnings targets will also be adjusted. 
+
+Still, a number of analysts don't seem worried, and banks such as UBS say they're still positive on Volkswagen shares, despite showing major losses. 
+
+
+
+Will heads roll?
+
+
+""I am sure that there will be personnel consequences in the end, there is no question about it,"" Olaf Lies, economy minister of the VW share-holding state of Lower Saxony, told German radio Tuesday morning. 
+
+It's unclear who will take the brunt of the blame as details emerge from a growing number of investigations, but there is some speculation over the job security of Volkswagen's chief exec, Winterkorn, who only months ago faced a leadership battle with the carmaker's chairman. 
+
+Speaking to Squawk Box Europe on Tuesday, Ferdinand Dudenhoffer, professor at the Center for Automotive Research at Universitat Duisburg-Essen, said there's no chance for Winterkorn to keep his position. 
+
+""They need a new start, and the new start can only be made with ... new personnel and new management,"" Dudenhoffer said. 
+
+The company has not made any formal indications of leadership changes since the scandal erupted. 
+"

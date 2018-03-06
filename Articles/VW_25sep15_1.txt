@@ -1,0 +1,42 @@
+"The research team that caught Volkswagen
+
+The leader of the research team that caught Volkswagen's cheating on US pollution tests tells DW how real-world emissions differed from lab results. Daniel Carder explains why the tests' outcome surprised researchers.
+
+
+Daniel Carder and his team at West Virginia University had no idea their data would ultimately lead to the resignation of the chief executive at the top-selling automaker in the world. 
+
+In 2014, the non-profit International Council on Clean Transportation contracted Carder's team to test for nitrogen oxide emissions in light-duty diesel vehicles in the United States. Nitrogen oxide contributes to ground-level ozone formation and has been regulated since the 1970s. They selected three vehicles - the BMWX5, VW Passat and the VW Jetta – and tested them on the road. 
+
+""There hadn't been light-duty diesel vehicle in-use emissions reported in the United States yet,"" Carder, the interim director of the Center for Alternative Fuels, Engines and Emissions (CAFEE), told DW.
+
+Dan Carder von der West Virginia University  
+Daniel Carder led the research team which uncovered the VW pollution scandal
+
+""It was the first of its kind,"" he said. ""Not that it was something new in terms of testing, it was just no one had actually conducted this testing in the US market.""
+
+Control systems not active
+
+During previous tests on heavy-duty diesel vehicles, the West Virginia team had found that the systems used to control nitrogen oxide and particulate matter normally performed quite well. They expected the same when they tested the light-duty vehicles. While the BMWX5 performed as expected, the VW Passat and Jetta showed irregularities.
+
+""The emissions we were measuring in the real world over the road were appreciably higher than...when we took them to the California [Air] Resources Board's vehicle emissions testing lab,"" Carder said. ""The emissions levels there were significantly lower than what we saw in the field."" 
+
+The team wasn't able to determine whether the irregularities were due to intentional manipulation or a technical failure, according to Carder. But the on-board diagnostic system didn't indicate a failure, and it was clear that the emissions control system wasn't active when it needed to be.
+
+""Looking at the data you can easily tell that the control systems weren't active during the periods that they would have to be active in order to have emissions levels equivalent to those during certification,"" Carder said. 
+
+'We were doing our job'
+
+Based on the West Virginia team's research, the Environmental Protection Agency (EPA) determined that Volkswagen had installed software that cheated emissions tests. The company now faces up to $18 billion in fines. Martin Winterkorn has resigned as chief executive.
+
+Volkswagen has admitted that similar software is installed on 11 million vehicles worldwide. Investigations are now being launched in Europe as well.
+
+""We were doing our job filling our deliverables and moving on,"" Carder said. ""We had no idea the magnitude of what has transpired would be.""
+
+So why did a research team in West Virginia catch Volkswagen and nobody else? The team's portable emissions measurement equipment is cumbersome and made of many components. It takes two men eight hours to install everything on the vehicle.
+
+""So obviously it doesn't bode well for inspection and maintenance testing you would have at a garage for say a smog test or something like that,"" Carder said. ""In order to be able to measure these levels accurately that's really what you have to have.""
+
+As for the EPA, Carder thinks the federal agency just wasn't focused on the issue.
+
+""This is a resources issue,"" he said. ""It's costly and time consuming. No one has been reporting it. My assumption would be that nobody has been looking into it.""
+"

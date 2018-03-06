@@ -1,0 +1,31 @@
+Deutsche Bank has joined an ever,growing list of global financial institutions that have been found guilty and fined for breaking US sanctions on a variety of unsavory regimes.
+
+The Federal Reserve dryly describes the offense as follows:
+
+The firm did not have sufficient policies and procedures to ensure that activities conducted at its offices outside of the United States complied with U.S. sanctions laws and were reported in a timely manner in response to inquiries by the Federal Reserve Bank of New York.
+
+But the New York State Department of Financial Services (NYDFS), with which the Fed is jointly acting, is much more colorful:
+
+From at least 1999 through 2006, Deutsche Bank used non,transparent methods and practices to conduct more than 27,200 U.S. dollar clearing transactions valued at over $10.86 billion on behalf of Iranian, Libyan, Syrian, Burmese, and Sudanese financial institutions and other entities subject to U.S. economic sanctions, including entities on the Specially Designated Nationals (“SDN”) List of the U.S. Treasury Department’s Office of Foreign Assets Control (“OFAC”).
+
+Starting at least in 1999, Bank employees recognized that U.S. sanctions rules, which applied at that time or over the course of subsequent years to Iranian, Syrian, Libyan, Burmese, or Sudanese customers or to customers who were listed on OFAC’s SDN list, would pose problems for U.S. dollar payments sent to or cleared through the U.S., including clearing done through Deutsche Bank New York.  Payments involving sanctioned entities were subject to additional scrutiny and might be delayed, rejected, or frozen in the United States.  In order to facilitate what it saw as “lucrative” U.S. dollar business for sanctioned customers, Bank employees developed and employed several processes to handle dollar payments in non,transparent ways that circumvented the controls designed to detect potentially,problematic payments.
+
+The NYDFS goes on to explain that the methods used by Deutsche Bank employees to circumvent sanctions included altering the information contained in SWIFT messages (“wire stripping”) and using anonymous cover messages to disguise the transactions (“non,transparent cover payments”). Staff at all levels in the bank seem to have known about, and been actively involved in, these practices. The NYDFS includes some lovely quotations from staff emails – this, for example:
+
+
+Let’s not revert to the client in writing due to the reputational risk involved if the e,mail goes to wrong places.  Someone should call [the client] and tell them orally and ensure that the conversation is not taped. . . . Let’s also keep this e,mail strictly on a ‘need,know’ basis, no need to spread the news…what we do under OFAC scenarios
+
+Staff handbooks even contained information on how to handle transactions involving sanctioned countries or institutions:
+
+Special attention has to be given to orders in which countries/institutes with embargos are involved.  Banks under embargo of the US (e.g., Iranian banks) must not be displayed in any order to [Deutsche Bank New York] or any other bank with American origin as the danger exists that the amount will be frozen in the USA.
+
+It all adds up to deliberate, systematic evasion of US sanctions as a matter of bank policy.
+
+The Federal Reserve has issued a cease & desist order which requires Deutsche Bank to clean up its act and bans it from having any further dealings with the people involved in these activities, most of whom have already left the bank. In addition, the NYDFS has insisted on the sacking of six current senior managers and significant restrictions on the activities of three more.
+
+However, no executive managers are implicated in this action, which I find surprising: such widespread and flagrant flouting of sanctions must surely have been approved at the highest levels in the organisation.
+
+Together, the two agencies have imposed a monetary penalty of $258m. This is tiny compared to other fines imposed for sanctions breaking. Fines imposed on financial institutions over the last few years include the following:
+
+
+Compared to some of these, Deutsche Bank has gotten off lightly – this time. But this will by no means be the last investigation into Deutsche Bank’s activities. In October 2015, Deutsche Bank announced that it was increasing provisions by approximately $1.3bn for litigation costs of unknown amount, most of which was not expected to be tax deductible. Clearly this wasn’t for a measly fine of a couple of million dollars. No, the big one is still to come. And there is a pretty obvious candidate on the horizon.
